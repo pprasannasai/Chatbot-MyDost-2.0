@@ -1,0 +1,7 @@
+#Tue Jul 17 14:01:52 IST 2018
+base.0=C\:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5be12253ec5b7d5c07a2debddee1e2c6e715c5f5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a7b034917ef9a14b3430d44a4dee733d5f90f47c\\classes.dex
+base.1=C\:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a7b034917ef9a14b3430d44a4dee733d5f90f47c
+file.0=C\:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5be12253ec5b7d5c07a2debddee1e2c6e715c5f5\\classes.dex

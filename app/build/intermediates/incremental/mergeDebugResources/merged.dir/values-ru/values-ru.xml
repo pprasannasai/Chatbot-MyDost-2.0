@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Forums">Форумы</string>
+    <string name="ViewPost">Посмотреть сообщение</string>
+    <string name="aDetails">Детали</string>
+    <string name="aPrivate">Частный</string>
+    <string name="aPublic">общественного</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="about">Около</string>
+    <string name="accessMode">Режим доступа</string>
+    <string name="action">действие</string>
+    <string name="actions">действия</string>
+    <string name="activeStripts">Активные скрипты</string>
+    <string name="activityAboutText1">Chat Bot Wars позволяет вам задействовать двух чатов-ботов в разговорной битве. Кто выигрывает? Вам решать.</string>
+    <string name="activityAboutText2">Вы можете просматривать нашу библиотеку тысяч ботов или создавать собственный бот, чтобы сражаться.</string>
+    <string name="activityAboutText3">Чем больше битв вы выиграете, тем выше ваш ранг.</string>
+    <string name="addDefaultResponse">Добавить ответ по умолчанию</string>
+    <string name="addGreeting">Добавить приветствие</string>
+    <string name="addImage">Добавить изображение</string>
+    <string name="addMedia">Добавить медиа</string>
+    <string name="addResponse">Добавить ответ</string>
+    <string name="addSharedImage">Добавить общее изображение</string>
+    <string name="admin">Администратор</string>
+    <string name="adminConsole">Консоль администратора</string>
+    <string name="administrators">Администраторы</string>
+    <string name="allPosts">Все сообщения</string>
+    <string name="audioAccessMode">Режим аудио-доступа</string>
+    <string name="avatar">Аватар</string>
+    <string name="avatarEditor">Редактор аватара</string>
+    <string name="avatarFlagged">Этот аватар отмечен</string>
+    <string name="bio">Bio (необязательно)</string>
+    <string name="body">тело</string>
+    <string name="boot">загрузки</string>
+    <string name="botFlagged">Этот бот будет отмечен</string>
+    <string name="botMode">Режим бота</string>
+    <string name="bots">Боты</string>
+    <string name="browse">Просматривать</string>
+    <string name="browseAllPosts">Просмотр всех сообщений</string>
+    <string name="browseCategories">Просмотр категорий</string>
+    <string name="browseFeatured">Просмотреть избранные</string>
+    <string name="browseFeaturedPosts">Просмотр избранных сообщений</string>
+    <string name="browsePosts">Просмотр сообщений</string>
+    <string name="cancel">Отмена</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"Объявление"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"Трансляция на устройство \"%s\""</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"Субтитры"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"Субтитры недоступны"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"Отключить"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Изображение, показанное во время трансляции объявления"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Трансляция объявления…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"Обложка"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"Прямой эфир"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"Загрузка…"</string>
+    <string msgid="8399595886048969508" name="cast_expanded_controller_skip_ad_label">"Пропустить"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"Перемотать вперед"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"Перемотать на 10 секунд вперед"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"Перемотать на 30 секунд вперед"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"Отключить звук"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Подключено к <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Подключение к <ns1:g id="NAME">%1$s</ns1:g>…"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Отключить"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"Приостановить"</string>
+    <string msgid="5906987965619702702" name="cast_play">"Воспроизвести"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"Перемотать назад"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"Перемотать на 10 секунд назад"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"Перемотать на 30 секунд назад"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"Ползунок перемотки"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"Перейти к следующему объекту"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"Перейти к предыдущему объекту"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"Остановить"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"Остановить трансляцию"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"Аудио"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"Отмена"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"Субтитры"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"Трек <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Нет"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"ОК"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Субтитры"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"Включить звук"</string>
+    <string name="categoires">категории</string>
+    <string name="changeAvatar">Сменить аватар</string>
+    <string name="changeIcon">Иконка изменения</string>
+    <string name="changeLanguage">Изменить язык</string>
+    <string name="changeServer">Изменить сервер</string>
+    <string name="changeVoice">Изменить голос</string>
+    <string name="channelBot">Канальный бот</string>
+    <string name="channelFlagged">Этот канал будет отмечен</string>
+    <string name="channelType">Тип канала</string>
+    <string name="channels">каналы</string>
+    <string name="chat">чат</string>
+    <string name="chatBotWar">Чатботская война</string>
+    <string name="chatBotWars">Чат Bot Wars</string>
+    <string name="chatwithyourBot">Ваш бот</string>
+    <string name="checkExactMatchFirst">Сначала проверьте точное соответствие</string>
+    <string name="chime">перезвон</string>
+    <string name="clear">Очистить</string>
+    <string name="clearPurchases">Очистить покупки</string>
+    <string name="clearbackground">Очистить фон</string>
+    <string name="cloths">одежда</string>
+    <string name="command">команда</string>
+    <string name="comments">Комментарии</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Включить"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется включить сервисы Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Включите сервисы Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Установить"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Установите сервисы Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Ошибка сервисов Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Повторите попытку."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Для работы с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Обновить"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Чтобы запустить приложение \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", обновите сервисы Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Обновите сервисы Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", в настоящий момент обновляются."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Открыть на телефоне"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Войти"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Войти через аккаунт Google"</string>
+    <string name="compile">компилировать</string>
+    <string name="comprehension">постижение</string>
+    <string name="consciousness">Сознание</string>
+    <string name="contentRating">Рейтинг содержания</string>
+    <string name="conversationMatch">Разговорный матч %</string>
+    <string name="correctResponse">Правильный ответ</string>
+    <string name="correctionMode">Режим коррекции</string>
+    <string name="create">Создайте</string>
+    <string name="createAvatar">Создать аватар</string>
+    <string name="createBot">Создать Бот</string>
+    <string name="createDomain">Создать домен</string>
+    <string name="createFourm">Создать форум</string>
+    <string name="createGraphic">Создать графику</string>
+    <string name="createScript">Создать скрипт</string>
+    <string name="creationMode">Режим создания</string>
+    <string name="currentPassword">текущий пароль</string>
+    <string name="customAvatar">Пользовательский аватар</string>
+    <string name="customizeAvatar">Настроить аватар</string>
+    <string name="daz3DModelNameorURL">Имя модели или URL-адрес Daz3D</string>
+    <string name="debugger">дебаггер</string>
+    <string name="delete">Удалить</string>
+    <string name="deleteAllImages">Удалить все изображения</string>
+    <string name="deleteImage">Удалить изображение</string>
+    <string name="deleteMedia">Удалить медиа</string>
+    <string name="deleteScript">Удалить скрипт</string>
+    <string name="description">Описание</string>
+    <string name="details">Подробности (необязательно)</string>
+    <string name="deviceVoice">Голос устройства</string>
+    <string name="disableVideo">Отключить видео</string>
+    <string name="disclaimer">Отказ от ответственности (необязательно)</string>
+    <string name="discussionMatch">Обсуждение Match %</string>
+    <string name="domainFlagged">Этот домен будет помечен</string>
+    <string name="domains">Домены</string>
+    <string name="download">Скачать</string>
+    <string name="duration">продолжительность</string>
+    <string name="edit">редактировать</string>
+    <string name="editAvatar">Редактировать Аватар</string>
+    <string name="editBot">Редактировать бот</string>
+    <string name="editChannel">Изменить канал</string>
+    <string name="editDomain">Изменить домен</string>
+    <string name="editForum">Редактировать форум</string>
+    <string name="editGraphic">Редактировать графику</string>
+    <string name="editPost">Редактировать сообщение</string>
+    <string name="editProfile">Редактировать профиль</string>
+    <string name="editScript">Редактировать скрипт</string>
+    <string name="editUser">Редактировать пользователя</string>
+    <string name="editor">редактор</string>
+    <string name="email">Эл. адрес</string>
+    <string name="emailReco">Электронная почта (рекомендуется)</string>
+    <string name="emotions">Эмоции</string>
+    <string name="exit">Выход</string>
+    <string name="eyeColor">Цвет глаз</string>
+    <string name="face">Лицо</string>
+    <string name="faq">Вопросы-Ответы</string>
+    <string name="featured">Рекомендуемые</string>
+    <string name="fixTempateCase">Исправить размер шаблона</string>
+    <string name="flag">Флаг</string>
+    <string name="flagAsOffensive">Флаг как атакующий</string>
+    <string name="flagResponseAsOffensive">Отказ от флага как оскорбительный</string>
+    <string name="flagUser">Пользователь Flag</string>
+    <string name="fork">вилка</string>
+    <string name="forkAccessMode">Режим доступа к вилке</string>
+    <string name="forum">Форум</string>
+    <string name="forumBot">Форум Bot</string>
+    <string name="forumFlagged">Этот форум будет отмечен</string>
+    <string name="fourmBot">Форум Bot</string>
+    <string name="fullName">Полное имя (необязательно)</string>
+    <string name="graphicFlagged">Эта графика отмечена</string>
+    <string name="graphics">Графика</string>
+    <string name="hairColor">Цвет волос</string>
+    <string name="hairStyle">Стиль волос</string>
+    <string name="handsFreeSpeech">Свободная речь</string>
+    <string name="hdImages">Изображения HD</string>
+    <string name="hdVideo">Видео высокой четкости</string>
+    <string name="help">Помогите</string>
+    <string name="helpBot">Помощь Bot</string>
+    <string name="helpText1">Добро пожаловать, чтобы помочь. Ознакомьтесь с нашими часто задаваемыми вопросами или форумами, пообщайтесь с нашей службой поддержки или нашими специалистами по поддержке. Отправьте нам электронное письмо или найдите дополнительные ресурсы на нашем веб-сайте.</string>
+    <string name="hidden">скрытый</string>
+    <string name="importResponses">Импортные ответы</string>
+    <string name="importScript">Сценарий импорта</string>
+    <string name="keywords">Ключевые слова</string>
+    <string name="label">метка</string>
+    <string name="language">язык</string>
+    <string name="languageAndVoice">Язык голоса</string>
+    <string name="last">Последний</string>
+    <string name="learnGrammar">Изучите грамматику</string>
+    <string name="learning">Обучение</string>
+    <string name="learningMode">Режим обучения</string>
+    <string name="learningRate">Уровень обучения %</string>
+    <string name="license">Лицензия (необязательно)</string>
+    <string name="liveSupport">Поддержка в реальном времени</string>
+    <string name="markInvalid">Отметить недействительным</string>
+    <string name="micConfig">Конфигурация микрофона</string>
+    <string name="micConfigurationInfo">Убедитесь, что микрофон работает на вашем устройстве. Выполните следующие действия. \n\n1- Убедитесь, что вы принимаете все разрешения для BotLibre, особенно для микрофона. \n\n2- Убедитесь, что на вашем устройстве включен Voice Search. Его речевой провайдер, который должен сделать речевое общение, работает.</string>
+    <string name="modelNameorURL">Название модели или URL-адрес</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Кнопка трансляции"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"Кнопка трансляции. Устройство подключено."</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"Кнопка трансляции. Устройство подключается."</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"Кнопка трансляции. Устройство отключено."</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Поиск устройств…"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Выберите устройство"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Обложка"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Подключение к удаленному монитору"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Закрыть"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Свернуть"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Отключить"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Развернуть"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Данных нет"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Медиафайл не выбран"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Приостановить"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Воспроизвести"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"Остановить трансляцию"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"Регулятор громкости"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Система"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Устройства"</string>
+    <string name="myBot">Мой бот</string>
+    <string name="myBots">Мои боты</string>
+    <string name="myForums">Мои форумы</string>
+    <string name="myPosts">Мои сообщения</string>
+    <string name="name">имя</string>
+    <string name="newPassword">новый пароль</string>
+    <string name="newPost">Новый пост</string>
+    <string name="noAds">Без рекламы</string>
+    <string name="noRepeat">Нет повтора</string>
+    <string name="offlineSpeech">Не в сети</string>
+    <string name="onRepeat">На повторе</string>
+    <string name="password">пароль</string>
+    <string name="passwordHint">Подсказка для пароля (необязательно)</string>
+    <string name="pickFromWWW">Выберите из: http://www.daz3d.com/people-and-wearables-genesis-3 \n (может потребоваться дополнительная стоимость)</string>
+    <string name="ping">пинг</string>
+    <string name="pitch">Подача</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Удалить поисковый запрос"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Поиск"</string>
+    <string name="play">Играть</string>
+    <string name="pose">поза</string>
+    <string name="poses">Позы</string>
+    <string name="post">После</string>
+    <string name="postAccessMode">Режим пост-доступа</string>
+    <string name="postFlagged">Это сообщение будет помечено</string>
+    <string name="posts">Сообщений</string>
+    <string name="poweredByYandex">Работает на Yandex.Translate</string>
+    <string name="previous">предыдущий</string>
+    <string name="question">Вопрос</string>
+    <string name="rate">Ставка</string>
+    <string name="reply">Ответить</string>
+    <string name="replyAccessMode">Ответить</string>
+    <string name="replyToParent">Ответить родителям</string>
+    <string name="requiredPrevious">Обязательный Предыдущий</string>
+    <string name="requiredWords">Требуемые слова</string>
+    <string name="response">отклик</string>
+    <string name="responseMatching">Соответствие ответов</string>
+    <string name="responseTimeout">Время ожидания ответа</string>
+    <string name="restrict">ограничивать</string>
+    <string msgid="368094699078615544" name="s1">"Сохранить изображение"</string>
+    <string msgid="4550830452390689489" name="s2">"Разрешить объявлению сохранить изображение в галерее?"</string>
+    <string msgid="2435407834265420668" name="s3">"Разрешить"</string>
+    <string msgid="9167523597401839819" name="s4">"Отклонить"</string>
+    <string msgid="1566682516266724847" name="s5">"Создать мероприятие"</string>
+    <string msgid="5996672174517137271" name="s6">"Разрешить объявлению создать мероприятие в календаре?"</string>
+    <string name="save">Сохранить</string>
+    <string name="sayHelloGoogle">Скажите привет - Google Voice</string>
+    <string name="sayHelloSpeech">Скажите Привет - Руки Свободная речь</string>
+    <string name="scriptDown">ценарий вниз</string>
+    <string name="scriptEditor">Редактор скриптов</string>
+    <string name="scriptFlagged">Этот скрипт отмечен</string>
+    <string name="scriptTimeout">Время ожидания скрипта</string>
+    <string name="scriptUp">Сценарий</string>
+    <string name="scripts">Сценарии</string>
+    <string name="search">Поиск</string>
+    <string name="searchAllPosts">Поиск по всем сообщениям</string>
+    <string name="searchPosts">Поиск сообщений</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
+    <string name="select">Выбрать</string>
+    <string name="selectFirstBot">Выберите первый бот</string>
+    <string name="selectSecondBot">Выберите второй бот</string>
+    <string name="sendFile">Отправить файл</string>
+    <string name="sendImage">Отправить изображение</string>
+    <string name="setBackground">Установить фон</string>
+    <string name="showImages">Показать изображения</string>
+    <string name="showName">Показать имя</string>
+    <string name="signIn">Войти в систему</string>
+    <string name="signOut">Выход</string>
+    <string name="signUp">Зарегистрироваться</string>
+    <string name="sort">Сортировать</string>
+    <string name="source">Источник</string>
+    <string name="speak">Говорить</string>
+    <string name="speechRate">Скорость речи</string>
+    <string name="startWar">Начать войну</string>
+    <string name="startWarText1">Выберите двух ботов, чтобы начать ботовую битку. Кто выигрывает? Вам решать.</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="submit">Отправить</string>
+    <string name="subscribe">Подписывайся</string>
+    <string name="synthesizeResponse">Синтетический ответ</string>
+    <string name="tags">Теги</string>
+    <string name="talking">говорящий</string>
+    <string name="template">шаблон</string>
+    <string name="test">Контрольная работа</string>
+    <string name="thisIsATest">Это тест, тестирование 1, 2, 3</string>
+    <string name="thumbsDown">Большие пальцы вниз</string>
+    <string name="thumbsUp">Пальцы вверх</string>
+    <string name="topic">тема</string>
+    <string name="trainingChatLogs">Тренировочные / чат-журналы</string>
+    <string name="type">Тип</string>
+    <string name="unflag">на данно</string>
+    <string name="unsubscribe">Отказаться от подписки</string>
+    <string name="upgrade">Обновить</string>
+    <string name="upgradeText1">Обновите свою учетную запись за дополнительные ресурсы, функции и бесплатный интерфейс.</string>
+    <string name="upgradeToBronze">Переход на бронзу</string>
+    <string name="upgradeToGold">Переход на золото</string>
+    <string name="upgradeToPlatinum">Обновление до платины</string>
+    <string name="upload">Загрузить</string>
+    <string name="uploadImage">Загрузить изображение</string>
+    <string name="userFlagged">Этот пользователь будет отмечен</string>
+    <string name="userID">Идентификатор пользователя</string>
+    <string name="userIDorEmail">Идентификатор пользователя (или адрес электронной почты)</string>
+    <string name="users">пользователей</string>
+    <string name="videoAccessMode">Режим доступа к видео</string>
+    <string name="view">Посмотреть</string>
+    <string name="viewCreater">Просмотреть создатель</string>
+    <string name="viewNext">Посмотреть Далее</string>
+    <string name="viewPrevious">Просмотреть предыдущий</string>
+    <string name="viewProfile">Просмотреть профиль</string>
+    <string name="viewReply">Посмотреть сообщение</string>
+    <string name="viewUser">Просмотр пользователей</string>
+    <string name="voice">голос</string>
+    <string name="voiceMod">Модификатор голоса</string>
+    <string name="voteDown">Проголосовать Вниз</string>
+    <string name="voteUp">Голосовать</string>
+    <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Купить через Google"</string>
+    <string name="webmVideo">Веб-видео</string>
+    <string name="website">Веб-сайт</string>
+    <string name="websiteOptional">Веб-сайт (необязательно)</string>
+    <string name="whisper">шептать</string>
+    <string name="youSay">Ты говоришь</string>
+    <string name="yourEmailAddress">Ваш адрес электронной почты</string>
+</resources>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\libs\commons-logging-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5043bfebc3db072ed80fbd362e7caf00e885d8ae">
+        <dex dex="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging-1.1.1_962fefd6daf915ef73adb32fc59f5c6bc155a1da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\libs\autobahn.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cfbc62ba5085c82450b88f1cbbf0e892ff215928">
+        <dex dex="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\build\intermediates\transforms\dex\debug\folders\1000\2\autobahn_8a10f3f3d67bf94c0c8fe569d37a087e7d05b1ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\libs\httpclient-cache-4.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="313cfeb950089985994736aa08885711c56b7e1e">
+        <dex dex="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-cache-4.2.5_15baae18305315ed7c6e4eb4528002c9fcb62cdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\libs\httpclient-4.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3bfeb9062b12d5b340445336790dbc14c59c2d79">
+        <dex dex="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.2.5_379ffbd7fd46dea57b5081aa22e7804ecb28230c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\libs\httpmime-4.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
+        <dex dex="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.2.5_d4335565777c122b5d59dfffc186cea100657092\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\libs\fluent-hc-4.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7eda2ae9f77415cf92651191e2229eae2caf0b61">
+        <dex dex="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\build\intermediates\transforms\dex\debug\folders\1000\2\fluent-hc-4.2.5_87a2acad31427cbcfe8fd7bbcfff5206f3f9f108\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a7b034917ef9a14b3430d44a4dee733d5f90f47c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\libs\httpcore-4.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b7f38df6de5dd8b500e602ae8c2dd5ee446f883">
+        <dex dex="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.2.4_7a29c48b5156e717ffacddaa036ef2a1de466c5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\libs\commons-codec-1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b7f0fc8f61ecadeb3695f0b9464755eee44374d4">
+        <dex dex="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-codec-1.6_583e20f6384c32339e1720957b9bac7625f5a4c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\libs\botlibre-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6868e5ed85aab4b12420bbc8d77fcbd4f4798b60">
+        <dex dex="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\build\intermediates\transforms\dex\debug\folders\1000\2\botlibre-sdk_8ee7f0a4c843fba80be5c9abaf9736580c5a5a9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="715eac2dc35aa001bf5b20b62168afea87cc55ad">
+        <dex dex="C:\Users\Puvvada Prasanna Sai\Documents\GitHub\BotLibre\sdk\android\examples\SantaBot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5be12253ec5b7d5c07a2debddee1e2c6e715c5f5\classes.dex" />
+    </item>
+
+</items>

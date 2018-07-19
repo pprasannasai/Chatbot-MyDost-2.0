@@ -1,0 +1,566 @@
+[
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_user.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_edit_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_domain.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_edit_domain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\096b7f5dce6356952c190907a1726498d0d46b4e\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\096b7f5dce6356952c190907a1726498d0d46b4e\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_channel.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_channel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_avatar.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_edit_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\bc62bd46e0183161db9089a43a41ba286a206789\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_avatar_media.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_avatar_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\e01e4083b0d384ee865e716d339ac5b15b651114\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_chat.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_main_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bot_edit_script_source.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_bot_edit_script_source.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_graphic.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_graphic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_script.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_script.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_graphic.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_create_graphic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_channel.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_admin_channel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_forum.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_create_forum.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_domain.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_admin_domain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\conversation_list.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\conversation_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_channel.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_edit_channel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_forum.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_edit_forum.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_user.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_create_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_training.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_training.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_list.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\image_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_script.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_admin_script.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_issues.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_search_issues.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bot_avatar.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_bot_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_response.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_response.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_avatar_test.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_avatar_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_browse.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_browse.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\avatar_media_list.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\avatar_media_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_browse_post.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_browse_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_livechat.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_livechat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forumreply_list.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\forumreply_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forumpost_list.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\forumpost_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_avatar.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_admin_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\issue_list.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\issue_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\e01e4083b0d384ee865e716d339ac5b15b651114\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_stars.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\dialog_stars.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_issue.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_issue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_issue_preview.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_issue_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mic_configuration.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_mic_configuration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\e01e4083b0d384ee865e716d339ac5b15b651114\\output\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_domain.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_domain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\e01e4083b0d384ee865e716d339ac5b15b651114\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bot_scripts.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_bot_scripts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forum.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_forum.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\096b7f5dce6356952c190907a1726498d0d46b4e\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_script.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_edit_script.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_war.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_war.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_avatar_view.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\custom_avatar_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forumpost.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_forumpost.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_view.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\e01e4083b0d384ee865e716d339ac5b15b651114\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_learning.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_learning.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_issue.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_edit_issue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forum_bot.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_forum_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_browse_issue.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_browse_issue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_bot.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_edit_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_forumpost.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_edit_forumpost.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_list.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\chat_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\bc62bd46e0183161db9089a43a41ba286a206789\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bot.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_browse.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_main_browse.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_graphic_media.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_graphic_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_avatar.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_create_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_reply.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_create_reply.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_graphic.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_admin_graphic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\096b7f5dce6356952c190907a1726498d0d46b4e\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\bc62bd46e0183161db9089a43a41ba286a206789\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\bc62bd46e0183161db9089a43a41ba286a206789\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_posts.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_search_posts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\096b7f5dce6356952c190907a1726498d0d46b4e\\output\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_user.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_view_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_channel_bot.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_channel_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\096b7f5dce6356952c190907a1726498d0d46b4e\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_channel.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_create_channel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_domain.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_create_domain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_script_source.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_edit_script_source.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_forumpost.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_create_forumpost.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_graphic.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_edit_graphic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_list.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\response_list.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\response_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_bot.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_create_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_avatar.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_script.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_create_script.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start_war.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_start_war.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emote_list.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\emote_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\b2d5066ebda3c87ed76093a2f5a0172bb040209d\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_users.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_issue.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_create_issue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_avatar_editor.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_avatar_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\.android\\build-cache\\e01e4083b0d384ee865e716d339ac5b15b651114\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_forum.xml",
+        "source": "C:\\Users\\Puvvada Prasanna Sai\\Documents\\GitHub\\BotLibre\\sdk\\android\\examples\\SantaBot\\app\\src\\main\\res\\layout\\activity_admin_forum.xml"
+    }
+]

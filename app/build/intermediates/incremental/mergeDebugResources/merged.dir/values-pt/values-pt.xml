@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Forums">Fórum</string>
+    <string name="ViewPost">Ver postagem</string>
+    <string name="aDetails">Detalhes</string>
+    <string name="aPrivate">Privado</string>
+    <string name="aPublic">Público</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecione um app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVAR"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVAR"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartilhar com %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="about">Sobre</string>
+    <string name="accessMode">Modo de Acesso</string>
+    <string name="action">Açao</string>
+    <string name="actions">Ações</string>
+    <string name="activeStripts">Scripts ativos</string>
+    <string name="activityAboutText1">Chat Bot Wars permite que você envolva dois bots de conversa em uma batalha conversacional. Quem ganha? Você decide.</string>
+    <string name="activityAboutText2">Você pode navegar em nossa biblioteca de milhares de bots, ou criar seu próprio bot para fazer batalha.</string>
+    <string name="activityAboutText3">Quanto mais batalhas você ganha, maior será a sua classificação.</string>
+    <string name="addDefaultResponse">Adicionar resposta padrão</string>
+    <string name="addGreeting">Adicionar saudação</string>
+    <string name="addImage">Adicionar imagem</string>
+    <string name="addMedia">Adicionar mídia</string>
+    <string name="addResponse">Adicionar resposta</string>
+    <string name="addSharedImage">Adicionar imagem compartilhada</string>
+    <string name="adminConsole">Consola do administrador</string>
+    <string name="administrators">Administradores</string>
+    <string name="allPosts">Todas as publicações</string>
+    <string name="audioAccessMode">Modo de acesso de áudio</string>
+    <string name="avatarEditor">Editor de Avatar</string>
+    <string name="avatarFlagged">Este avatar foi sinalizado</string>
+    <string name="bio">Bio (opcional)</string>
+    <string name="body">Corpo</string>
+    <string name="bot">Robô</string>
+    <string name="botFlagged">Este bot foi sinalizado</string>
+    <string name="botMode">Modo de Bot</string>
+    <string name="browse">procurar</string>
+    <string name="browseAllPosts">Procurar Todos os Posts</string>
+    <string name="browseCategories">Procurar Categorias</string>
+    <string name="browseFeatured">Procurar em destaque</string>
+    <string name="browseFeaturedPosts">Navegar em Posts em Destaque</string>
+    <string name="browsePosts">Procurar Mensagens</string>
+    <string name="cancel">Cancelar</string>
+    <string name="categoires">Categorias</string>
+    <string name="changeAvatar">Mudar Avatar</string>
+    <string name="changeIcon">Alterar Ícone</string>
+    <string name="changeLanguage">Mudar idioma</string>
+    <string name="changeServer">Alterar Servidor</string>
+    <string name="changeVoice">Alterar Voz</string>
+    <string name="channelBot">Canal Bot</string>
+    <string name="channelFlagged">Este canal foi sinalizado</string>
+    <string name="channelType">Tipo de canal</string>
+    <string name="channels">Canais</string>
+    <string name="chat">Bate-papo</string>
+    <string name="chatwithyourBot">Seu Bot</string>
+    <string name="checkExactMatchFirst">Verificar a correspondência exata primeiro</string>
+    <string name="chime">Carrilhão</string>
+    <string name="clear">Claro</string>
+    <string name="clearPurchases">Limpar compras</string>
+    <string name="clearbackground">Limpar fundo</string>
+    <string name="cloths">Panos</string>
+    <string name="command">Comando</string>
+    <string name="comments">Comentários</string>
+    <string name="compile">Compilar</string>
+    <string name="comprehension">Compreensão</string>
+    <string name="consciousness">Consciência</string>
+    <string name="contentRating">Classificação de conteúdo</string>
+    <string name="conversationMatch">Correspondência de Conversação %</string>
+    <string name="correctResponse">Resposta correta</string>
+    <string name="correctionMode">Modo de Correcção</string>
+    <string name="create">Crio</string>
+    <string name="createAvatar">Criar Avatar</string>
+    <string name="createBot">Criar Bot</string>
+    <string name="createDomain">Criar domínio</string>
+    <string name="createFourm">Criar Fórum</string>
+    <string name="createGraphic">Criar gráfico</string>
+    <string name="createScript">Criar script</string>
+    <string name="creationMode">Modo criação</string>
+    <string name="currentPassword">senha atual</string>
+    <string name="customAvatar">Avatar personalizado</string>
+    <string name="customizeAvatar">Personalize o Avatar</string>
+    <string name="daz3DModelNameorURL">Nome ou URL do modelo Daz3D</string>
+    <string name="delete">Excluir</string>
+    <string name="deleteAllImages">Excluir todas as imagens</string>
+    <string name="deleteImage">Excluir imagem</string>
+    <string name="deleteMedia">Excluir mídia</string>
+    <string name="deleteScript">Excluir script</string>
+    <string name="description">Descrição</string>
+    <string name="details">Detalhes (opcional)</string>
+    <string name="deviceVoice">Voz do dispositivo</string>
+    <string name="disableVideo">Desativar vídeo</string>
+    <string name="disclaimer">Isenção de responsabilidade (opcional)</string>
+    <string name="discussionMatch">Discussão %</string>
+    <string name="domainFlagged">Este domínio foi sinalizado</string>
+    <string name="domains">Domínios</string>
+    <string name="download">Transferir</string>
+    <string name="duration">Duração</string>
+    <string name="edit">Editar</string>
+    <string name="editAvatar">Editar Avatar</string>
+    <string name="editBot">Editar Bot</string>
+    <string name="editChannel">Editar canal</string>
+    <string name="editDomain">Editar domínio</string>
+    <string name="editForum">Editar Fórum</string>
+    <string name="editGraphic">Editar gráfico</string>
+    <string name="editPost">Editar post</string>
+    <string name="editProfile">Editar Perfil</string>
+    <string name="editScript">Editar Script</string>
+    <string name="editUser">Editar usuário</string>
+    <string name="editor">editor</string>
+    <string name="email">O email</string>
+    <string name="emailReco">E-mail (recomendado)</string>
+    <string name="emoting">Emotando</string>
+    <string name="emotions">Emoções</string>
+    <string name="exit">Saída</string>
+    <string name="eyeColor">Cor dos olhos</string>
+    <string name="face">Cara</string>
+    <string name="faq">Perguntas frequentes</string>
+    <string name="featured">Destaque</string>
+    <string name="flag">Bandeira</string>
+    <string name="flagAsOffensive">Bandeira como ofensiva</string>
+    <string name="flagResponseAsOffensive">Resposta de bandeira como ofensiva</string>
+    <string name="fork">Garfo</string>
+    <string name="forkAccessMode">Modo de Acesso à Forquilha</string>
+    <string name="forum">Fórum</string>
+    <string name="forumFlagged">Este fórum foi sinalizado</string>
+    <string name="fourmBot">Fórum Bot</string>
+    <string name="fullName">Nome completo (opcional)</string>
+    <string name="graphicFlagged">Este gráfico foi sinalizado</string>
+    <string name="graphics">Gráficos</string>
+    <string name="hairColor">Cor de cabelo</string>
+    <string name="hairStyle">Penteado</string>
+    <string name="handsFreeSpeech">Discurso manos libres</string>
+    <string name="hdImages">Imagens HD</string>
+    <string name="hdVideo">Vídeo HD</string>
+    <string name="help">Socorro</string>
+    <string name="helpBot">Ajuda Bot</string>
+    <string name="helpText1">Bem-vindo a ajudar. Consulte as nossas FAQ ou fóruns, converse com o nosso Help Bot ou com os nossos especialistas em suporte ao vivo. Envie um e-mail ou encontre recursos adicionais em nosso site.</string>
+    <string name="hidden">Escondido</string>
+    <string name="importResponses">Importar Respostas</string>
+    <string name="importScript">Importar script</string>
+    <string name="keepAlive">Mantenha vivo</string>
+    <string name="keywords">Palavras-chave</string>
+    <string name="label">Rótulo</string>
+    <string name="language">Língua</string>
+    <string name="languageAndVoice">Idioma e Voz</string>
+    <string name="last">Último</string>
+    <string name="learnGrammar">Aprenda Gramática</string>
+    <string name="learning">Aprendendo</string>
+    <string name="learningMode">Modo de aprendizagem</string>
+    <string name="learningRate">Taxa de Aprendizagem %</string>
+    <string name="license">Licença (opcional)</string>
+    <string name="liveSupport">Suporte ao vivo</string>
+    <string name="markInvalid">Marcar inválido</string>
+    <string name="markValid">Marca Válida</string>
+    <string name="micConfig">Configuração do microfone</string>
+    <string name="micConfigurationInfo">Certifique-se de que o microfone funciona no dispositivo. Siga estes passos abaixo. \n\n1- Certifique-se de que aceita todas as permissões para o BotLibre, especialmente para o Microfone. \n\n2- Certifique-se de que o seu dispositivo activou a Pesquisa por Voz. É um provedor de fala que é necessário para fazer o reconhecimento de fala funciona.</string>
+    <string name="modelNameorURL">Nome do modelo ou URL</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Botão Transmitir"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"Botão \"Transmitir\". Conectado"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"Botão \"Transmitir\". Conectando"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"Botão \"Transmitir\". Desconectado"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Localizando dispositivos"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Transmitir para"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Arte do álbum"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Transmitindo a tela"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Fechar"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Recolher"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Desconectar"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Expandir"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Nenhuma informação disponível"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Nenhuma mídia selecionada"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Pausar"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Reproduzir"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"Interromper transmissão"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"Controle deslizante de volume"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Sistema"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispositivos"</string>
+    <string name="myBot">Meu Bot</string>
+    <string name="myBots">Meus Bots</string>
+    <string name="myForums">Meus Fóruns</string>
+    <string name="myPosts">Minhas postagens</string>
+    <string name="name">Nome</string>
+    <string name="newPassword">Nova senha</string>
+    <string name="newPost">Nova postagem</string>
+    <string name="noAds">Sem anúncios</string>
+    <string name="noRepeat">Não Repetir</string>
+    <string name="offlineSpeech">Discurso Offline</string>
+    <string name="onRepeat">Na repetição</string>
+    <string name="password">Senha</string>
+    <string name="passwordHint">Dica de senha (opcional)</string>
+    <string name="pickFromWWW">Escolha de: http://www.daz3d.com/people-and-wearables-genesis-3 \n (pode exigir um custo extra)</string>
+    <string name="pitch">Passo</string>
+    <string name="play">Toque</string>
+    <string name="postAccessMode">Modo de acesso de postagem</string>
+    <string name="postFlagged">Este post foi sinalizado</string>
+    <string name="posts">Postagens</string>
+    <string name="poweredByYandex">Desenvolvido por Yandex.Translate</string>
+    <string name="previous">Anterior</string>
+    <string name="question">Questão</string>
+    <string name="rate">Taxa</string>
+    <string name="reply">Resposta</string>
+    <string name="replyAccessMode">Modo de acesso de resposta</string>
+    <string name="replyToParent">Responder ao pai</string>
+    <string name="requiredPrevious">Obrigatório Anterior</string>
+    <string name="requiredWords">Palavras exigidas</string>
+    <string name="response">Resposta</string>
+    <string name="responseMatching">Resposta Correspondente</string>
+    <string name="responseTimeout">Tempo limite de resposta</string>
+    <string name="restrict">Restringir</string>
+    <string name="save">Salve</string>
+    <string name="sayHelloGoogle">Diga Olá - Google Voice</string>
+    <string name="sayHelloSpeech">Diga Olá - Discurso</string>
+    <string name="scriptDown">Script para baixo</string>
+    <string name="scriptEditor">Editor de scripts</string>
+    <string name="scriptFlagged">Este script foi sinalizado</string>
+    <string name="scriptTimeout">Tempo limite de script</string>
+    <string name="search">Pesquisa</string>
+    <string name="searchAllPosts">Procurar Todos os Posts</string>
+    <string name="searchPosts">Pesquisar Posts</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pesquisar"</string>
+    <string name="select">Selecionar</string>
+    <string name="selectFirstBot">Selecione primeiro botão</string>
+    <string name="selectSecondBot">Selecione o segundo botão</string>
+    <string name="sendFile">Enviar arquivo</string>
+    <string name="sendImage">Enviar imagem</string>
+    <string name="setBackground">Definir fundo</string>
+    <string name="showImages">Mostrar imagens</string>
+    <string name="showName">Mostrar nome</string>
+    <string name="signIn">Assinar em</string>
+    <string name="signOut">Sair</string>
+    <string name="signUp">Inscrever-se</string>
+    <string name="sort">Ordenar</string>
+    <string name="source">Fonte</string>
+    <string name="speak">Falar</string>
+    <string name="speechRate">Taxa de Voz</string>
+    <string name="startWar">Iniciar Guerra</string>
+    <string name="startWarText1">Selecione dois bots para iniciar uma guerra de bot de bate-papo. Quem ganha? Você decide.</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="subdomain">Subdomínio</string>
+    <string name="submit">Enviar</string>
+    <string name="subscribe">Se inscrever</string>
+    <string name="synthesizeResponse">Sintetizar Resposta</string>
+    <string name="tagMedia">Tage Media</string>
+    <string name="tags">Tag</string>
+    <string name="talking">Falando</string>
+    <string name="template">Modelo</string>
+    <string name="test">Teste</string>
+    <string name="thisIsATest">Este é um teste, testando 1, 2, 3</string>
+    <string name="thumbsDown">Polegares para baixo</string>
+    <string name="thumbsUp">Afirmativo</string>
+    <string name="topic">Tema</string>
+    <string name="trainingChatLogs">Treinamento / logs de bate-papo</string>
+    <string name="type">Tipo</string>
+    <string name="unsubscribe">Cancelar subscrição</string>
+    <string name="upgrade">Atualizar</string>
+    <string name="upgradeText1">Atualize sua conta para obter recursos adicionais, recursos e uma interface livre de anúncios.</string>
+    <string name="upgradeToBronze">Atualizar para Bronze</string>
+    <string name="upgradeToGold">Atualizar para Gold</string>
+    <string name="upgradeToPlatinum">Atualizar para Platinum</string>
+    <string name="upload">Envio</string>
+    <string name="uploadImage">Enviar Imagem</string>
+    <string name="userFlagged">Este usuário foi sinalizado</string>
+    <string name="userID">ID do usuário</string>
+    <string name="userIDorEmail">ID do usuário (ou e-mail)</string>
+    <string name="users">Comercial</string>
+    <string name="videoAccessMode">Modo de acesso ao vídeo</string>
+    <string name="view">Visão</string>
+    <string name="viewCreater">VerCriar</string>
+    <string name="viewNext">Ver Próximo</string>
+    <string name="viewPrevious">Ver Anterior</string>
+    <string name="viewProfile">Ver perfil</string>
+    <string name="viewReply">Ver Resposta</string>
+    <string name="viewUser">Visualizar usuário</string>
+    <string name="voice">Voz</string>
+    <string name="voiceMod">Modificador de Voz</string>
+    <string name="voteDown">Vote para baixo</string>
+    <string name="voteUp">Vote para cima</string>
+    <string name="webmVideo">Vídeo do Webm</string>
+    <string name="website">Local na rede Internet</string>
+    <string name="websiteOptional">Website (opcional)</string>
+    <string name="whisper">Sussurro</string>
+    <string name="wiktionary">Wikcionário</string>
+    <string name="youSay">Você diz</string>
+    <string name="yourEmailAddress">Seu endereço de email</string>
+</resources>
